@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <MainButtonDef>
+    <defName>JSM_Split</defName>
+    <label>split</label>
+    <description>Split the screen in two, the map you're on on both halves. Click a half to play on it. Right click to lock the maps to their half.</description>
+    <iconPath>UI/JustSplitMap/Split</iconPath>
+    <minimized>true</minimized>
+    <workerClass>JustSplitMap.MainButtonWorker_SecondMap</workerClass>
+    <order>102</order>
+  </MainButtonDef>
+
+</Defs>

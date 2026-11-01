@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <KeyBindingCategoryDef>
+    <defName>JSM_JustSplitMap</defName>
+    <label>JustSplitMap</label>
+    <description>Keys for the split screen.</description>
+  </KeyBindingCategoryDef>
+
+  <KeyBindingDef>
+    <defName>JSM_SwitchHalf</defName>
+    <label>play the other half</label>
+    <category>JSM_JustSplitMap</category>
+    <defaultKeyCodeA>Q</defaultKeyCodeA>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>JSM_ToggleLock</defName>
+    <label>lock maps to their half</label>
+    <category>JSM_JustSplitMap</category>
+    <defaultKeyCodeA>E</defaultKeyCodeA>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>JSM_ToggleSplit</defName>
+    <label>split the screen</label>
+    <category>JSM_JustSplitMap</category>
+    <defaultKeyCodeA>X</defaultKeyCodeA>
+  </KeyBindingDef>
+
+</Defs>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>JustSplitMap</name>
+  <author>tiagocc0</author>
+  <packageId>tiagocc0.JustSplitMap</packageId>
+  <modVersion>0.6.0</modVersion>
+  <url>https://github.com/purpleorangegames/JustSplitMap</url>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>Split the screen in two and see two maps at the same time, or two places of the same map.
+
+Click the split button at the bottom bar and the screen splits, with the map you're on on both halves. You play on one half and the other is only to look at. Click or scroll on the other half and you play there instead.
+
+Each half has a column of squares at its edge, one for each map with colonists. Click one to show that map on that half, right click to show it on the other half. The square with a white border is the map you play.
+
+When you click someone on the colonist bar they show on the half you play. If you lock it, they show on the half that already has their map instead, and someone on a third map changes the half you play. Right click the split button or click the little lock under the squares to lock or unlock, the button is filled in while it's locked.
+
+You can drag the line between the halves to make one bigger, double click it to put it back in the middle.
+
+Keys: Q plays the other half, E locks or unlocks and X splits the screen. You can change them in the game's keyboard options.
+
+It works with Camera+ and with ReShade for RimWorld, both halves look the same.
+
+In the options you can have a panel from the split button instead of the squares, and the other map in a window instead of half the screen.
+
+You can add it mid playthrough.
+
+Non Steam version: https://github.com/purpleorangegames/JustSplitMap
+
+AI was used to help code/fix issues</description>
+</ModMetaData>

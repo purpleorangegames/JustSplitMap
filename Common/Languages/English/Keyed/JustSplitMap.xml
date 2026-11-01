@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <JSM_ModeSplit>Split screen</JSM_ModeSplit>
+  <JSM_ModeSplitDesc>The other map takes half the screen. Click or scroll on it and it becomes the main map, the halves stay where they are.</JSM_ModeSplitDesc>
+  <JSM_ModeWindow>Window</JSM_ModeWindow>
+  <JSM_ModeWindowDesc>The second map in a window you can move and resize. Click it to switch.</JSM_ModeWindowDesc>
+  <JSM_NoOtherMap>No other map is open.</JSM_NoOtherMap>
+  <JSM_NoRenderer>This version of the game can't draw a map into a window.</JSM_NoRenderer>
+  <JSM_ThisMap>{0} (this one)</JSM_ThisMap>
+  <JSM_Left>Left</JSM_Left>
+  <JSM_Right>Right</JSM_Right>
+  <JSM_ActiveSide>{0} (the one you play)</JSM_ActiveSide>
+  <JSM_Lock>Lock maps to their half</JSM_Lock>
+  <JSM_LockDesc>Off, when you go to someone from the colonist bar it shows on the half you clicked last.
+
+On, it shows on the half that already has their map, and someone on a map that isn't on either half changes the half you clicked last.</JSM_LockDesc>
+  <JSM_Locked>Maps locked to their half</JSM_Locked>
+  <JSM_Unlocked>Maps not locked to their half</JSM_Unlocked>
+  <JSM_SquareTip>Click to show it on this half, right click for the other half.</JSM_SquareTip>
+  <JSM_Picking>Picking maps</JSM_Picking>
+  <JSM_PickSquares>Squares at the edges of the screen</JSM_PickSquares>
+  <JSM_PickSquaresDesc>The split button splits the screen with the map you're on on both halves. Each half gets a column of squares at its edge, one for each map with colonists, click one to show it on that half. The small one under them is the lock.</JSM_PickSquaresDesc>
+  <JSM_PickPanel>A panel from the split button</JSM_PickPanel>
+  <JSM_PickPanelDesc>The split button opens a panel with a column for each half and every map in it.</JSM_PickPanelDesc>
+  <JSM_Close>Close</JSM_Close>
+  <JSM_Switch>Switch</JSM_Switch>
+  <JSM_SwitchTip>Make this the main map. Clicking the view does the same, at the spot you click.</JSM_SwitchTip>
+  <JSM_UpdatesPerSecond>Second map updates per second: {0}</JSM_UpdatesPerSecond>
+  <JSM_UpdatesPerSecondDesc>Lower is lighter on the GPU. Moving or zooming the window always updates it right away.</JSM_UpdatesPerSecondDesc>
+</LanguageData>
